@@ -1,0 +1,34 @@
+# /_data/authors.yml
+
+Apoorv Umang Saxena:
+  name        : "Apoorv Umang Saxena"
+  bio         : "PhD student at Indian Institute of Science"
+  avatar      : "/assets/images/apoorv.jpg"
+  links:
+    - label: "Bangalore, India"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: /
+    - label: "apoorvsaxena [at] iisc.ac.in"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:apoorvsaxena@iisc.ac.in"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.github.com/apoorvumang/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=MpOVpSUAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/apoorvumang/"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
