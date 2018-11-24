@@ -5,8 +5,6 @@ author: Apoorv Umang Saxena
 toc: true
 ---
 
-# About me
-
 I am a PhD candidate in the [Department of Computational and Data Sciences (CDS)](http://www.cds.iisc.ac.in/) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the [Machine And Language Learning Lab (MALL Lab)](http://malllabiisc.github.io/) since August 2018.
 
 Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
