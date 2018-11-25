@@ -33,5 +33,5 @@ apoorvumang [at] gmail.com
 
 ### Lab Address
 
-_303, Department of Computational and Data Science (CDS)_
+_303, Department of Computational and Data Sciences (CDS)_
 
