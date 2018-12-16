@@ -19,7 +19,7 @@ A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile
 
 ## Work Experience
 
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;"> Google, Hyderabad </span>
+### Google, Hyderabad
 Software Engineer 3 — May 2016 - Mar 2017
 
 ### PayPal, Chennai
