@@ -17,6 +17,8 @@ I am broadly interested in Machine Learning with a particular focus on Natural L
 
 A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile robots for geometric pattern formation: An empirical analysis,"](https://www.computer.org/csdl/proceedings/ic3/2014/5172/00/06897242-abs.html) 2014 Seventh International Conference on Contemporary Computing (IC3), Noida, India, 2014, pp. . 
 
+**Saxena A.**, Tripathi A. & Talukdar P. [“Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings”](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf). Accepted to the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
+
 ## Work Experience
 
 ### Google, Hyderabad
