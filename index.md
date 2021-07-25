@@ -14,6 +14,7 @@ Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Co
 I am broadly interested in Machine Learning with a particular focus on Natural Language and Knowledge Graphs. Previously, during my undergraduate studies, I have worked on swarm robotics and computer vision.
 
 ## Publications
+**Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).
 
 **Saxena A.**, Tripathi A. & Talukdar P. [“Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings”](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf). Accepted to the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
 
