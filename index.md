@@ -11,7 +11,9 @@ Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Co
 
 ## Research
 
-I am broadly interested in Machine Learning with a particular focus on Natural Language and Knowledge Graphs. Previously, during my undergraduate studies, I have worked on swarm robotics and computer vision.
+I am broadly interested in machine learning, data mining, natural language processing and related fields. In my post-graduate work, I have had a specific focus on knowledge graphs (KG) and question answering. In this area, I have tried to improve QA performance by combining pre-trained language models with KG embeddings. I have also worked on making KG embeddings more scalable and easier to apply to downstream tasks.
+During my undergraduate studies I worked on humanoid robotics and computer vision.
+
 
 ## Publications
 **Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).
@@ -22,6 +24,9 @@ A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile
 
 
 ## Work Experience
+
+### IBM Research, Bangalore
+Research intern — Summer 2019
 
 ### Google, Hyderabad
 Software Engineer 3 — May 2016 - Mar 2017
