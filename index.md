@@ -11,7 +11,7 @@ Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Co
 
 ## Research
 
-I am broadly interested in machine learning, data mining, natural language processing and related fields. In my post-graduate work, I have had a specific focus on knowledge graphs (KG) and question answering. In this area, I have tried to improve QA performance by combining pre-trained language models with KG embeddings. I have also worked on making KG embeddings more scalable and easier to apply to downstream tasks.
+I am broadly interested in machine learning, natural language processing and related fields. In my post-graduate work, I have had a specific focus on knowledge graphs (KG) and question answering. In this area, I have tried to improve QA performance by combining pre-trained language models with KG embeddings. I have also worked on making KG embeddings more scalable and easier to apply to downstream tasks.
 During my undergraduate studies I worked on humanoid robotics and computer vision.
 
 
