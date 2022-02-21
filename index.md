@@ -5,7 +5,7 @@ author: Apoorv Umang Saxena
 toc: true
 ---
 
-I am a PhD candidate in the [Department of Computational and Data Sciences (CDS)](http://www.cds.iisc.ac.in/) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the [Machine And Language Learning Lab (MALL Lab)](http://malllabiisc.github.io/) since August 2018.
+I am a PhD candidate in the Department of Computational and Data Sciences (CDS) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the Machine And Language Learning Lab (MALL Lab) since August 2018.
 
 Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
 
@@ -16,9 +16,21 @@ During my undergraduate studies I worked on humanoid robotics and computer visio
 
 
 ## Publications
-**Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).
+**Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).<br>
+<button>
+<a style="text-decoration: none;" href="https://underline.io/lecture/25744-question-answering-over-temporal-knowledge-graphs"><i class="fas fa-video"></i> Video</a>
+</button>
+<button>
+<a style="text-decoration: none;" href="https://github.com/apoorvumang/CronKGQA"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+</button>
 
-**Saxena A.**, Tripathi A. & Talukdar P. [“Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings”](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf). Accepted to the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
+**Saxena A.**, Tripathi A. & Talukdar P. [“Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings”](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf). Accepted to the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).<br>
+<button>
+<a style="text-decoration: none;" href="https://virtual.acl2020.org/paper_main.412.html"><i class="fas fa-video"></i> Video</a>
+</button>
+<button>
+<a style="text-decoration: none;" href="https://github.com/malllabiisc/EmbedKGQA"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+</button>
 
 A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile robots for geometric pattern formation: An empirical analysis,"](https://www.computer.org/csdl/proceedings/ic3/2014/5172/00/06897242-abs.html) 2014 Seventh International Conference on Contemporary Computing (IC3), Noida, India, 2014, pp. . 
 
