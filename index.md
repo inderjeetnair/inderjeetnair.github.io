@@ -16,6 +16,16 @@ During my undergraduate studies I worked on humanoid robotics and computer visio
 
 
 ## Publications
+**Saxena A.**, Kochsiek A. & Gemulla R. [“Sequence-to-Sequence Knowledge Graph Completion and Question Answering”](https://openreview.net/forum?id=-IqgviHAGoh). Accepted to the 2022 Annual Conference of the Association for Computational Linguistics (ACL 2022).<br>
+Full text will be updated soon with more results + analysis. <br>
+<button>
+<a style="text-decoration: none;" href="https://huggingface.co/apoorvumang/kgt5-wikikg90mv2"><i class="fas fa-play"></i> Demo</a>
+</button>
+<button>
+<a style="text-decoration: none;" href="https://github.com/apoorvumang/transformer-kgc"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+</button>
+
+
 **Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).<br>
 <button>
 <a style="text-decoration: none;" href="https://underline.io/lecture/25744-question-answering-over-temporal-knowledge-graphs"><i class="fas fa-video"></i> Video</a>
