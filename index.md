@@ -5,9 +5,11 @@ author: Apoorv Umang Saxena
 toc: true
 ---
 
-I am a PhD candidate in the Department of Computational and Data Sciences (CDS) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the Machine And Language Learning Lab (MALL Lab) since August 2018.
+I am a 4th year PhD candidate in the Department of Computational and Data Sciences (CDS) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the Machine And Language Learning Lab (MALL Lab) since August 2018.
 
 Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
+
+I am currently looking for full-time positions (Research Scientist/Research Engineer/Post-doc) in Bangalore or remote, starting June 2022 or later.
 
 ## Research
 
@@ -16,14 +18,18 @@ During my undergraduate studies I worked on humanoid robotics and computer visio
 
 
 ## Publications
-**Saxena A.**, Kochsiek A. & Gemulla R. [“Sequence-to-Sequence Knowledge Graph Completion and Question Answering”](https://openreview.net/forum?id=-IqgviHAGoh). Accepted to the 2022 Annual Conference of the Association for Computational Linguistics (ACL 2022).<br>
-Full text will be updated soon with more results + analysis. <br>
+**Saxena A.**, Kochsiek A. & Gemulla R. [“Sequence-to-Sequence Knowledge Graph Completion and Question Answering”](https://arxiv.org/abs/2203.10321). Accepted to the 2022 Annual Conference of the Association for Computational Linguistics (ACL 2022).<br>
 <button>
-<a style="text-decoration: none;" href="https://huggingface.co/apoorvumang/kgt5-wikikg90mv2"><i class="fas fa-play"></i> Demo</a>
+<a style="text-decoration: none;" href="https://huggingface.co/spaces/apoorvumang/kgt5"><i class="fas fa-play"></i> Demo</a>
 </button>
 <button>
-<a style="text-decoration: none;" href="https://github.com/apoorvumang/transformer-kgc"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+<a style="text-decoration: none;" href="https://github.com/apoorvumang/kgt5"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
 </button>
+<button>
+<a style="text-decoration: none;" href="https://docs.google.com/presentation/d/1704LNdD9yQAdAIPnjKEqKaytS74GT_E83aCFFAgJAPs/edit?usp=sharing">
+<i class="fa fa-archive"></i> Slides</a>
+</button>
+
 
 
 **Saxena A.**, Chakrabarti S. & Talukdar P. [“Question Answering Over Temporal Knowledge Graphs”](https://arxiv.org/abs/2106.01515). Accepted to the 2021 Annual Conference of the Association for Computational Linguistics (ACL 2021).<br>
