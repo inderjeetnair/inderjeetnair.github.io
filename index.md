@@ -54,7 +54,7 @@ A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile
 ## Work Experience
 
 ### IBM Research, Bangalore
-Research intern — Summer 2019
+Research Intern — Summer 2019
 
 ### Google, Hyderabad
 Software Engineer, Tools and Infrastructure — May 2016 - Mar 2017
