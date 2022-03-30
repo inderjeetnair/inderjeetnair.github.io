@@ -57,7 +57,7 @@ A. Gautam, __A. U. Saxena__, P. Mall and S. Mohan, ["Positioning multiple mobile
 Research intern — Summer 2019
 
 ### Google, Hyderabad
-Software Engineer 3 — May 2016 - Mar 2017
+Software Engineer, Tools and Infrastructure — May 2016 - Mar 2017
 
 ### PayPal, Chennai
 Software Engineer 1 — July 2015 - November 2015
