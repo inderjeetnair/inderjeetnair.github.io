@@ -9,7 +9,6 @@ I am a 4th year PhD candidate in the Department of Computational and Data Scienc
 
 Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
 
-I am currently looking for full-time positions (Research Scientist/Research Engineer/Post-doc) in Bangalore or remote, starting June 2022 or later.
 
 ## Research
 
