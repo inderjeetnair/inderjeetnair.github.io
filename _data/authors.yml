@@ -1,28 +1,28 @@
 # /_data/authors.yml
 
-Apoorv Umang Saxena:
-  name        : "Apoorv Umang Saxena"
-  bio         : "PhD student at Indian Institute of Science"
-  avatar      : "/assets/images/apoorv.jpg"
+Inderjeet Nair:
+  name        : "Inderjeet Nair"
+  bio         : "Research Associate, Adobe Research Labs, Bangalore"
+  avatar      : "image.png"
   links:
     - label: "Bangalore, India"
       icon: "fas fa-fw fa-map-marker-alt"
       url: /
-    - label: "apoorvsaxena [at] iisc.ac.in"
+    - label: "inderjeetnair1 [at] gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:apoorvsaxena@iisc.ac.in"
+      url: "mailto:inderjeetnair1@gmail.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://www.github.com/apoorvumang/"
+      url: "https://github.com/Inderbat"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=MpOVpSUAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=_C4CkDEAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/apoorvumang/"
+      url: "https://www.linkedin.com/in/inderjeet-nair-145b62177/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/apoorv_umang"
+      url: "https://twitter.com/"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
