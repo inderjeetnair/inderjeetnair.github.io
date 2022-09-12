@@ -41,7 +41,7 @@ Production Engineer — June 2019 - August 2019
 
 ## CV
 
-[PDF]({{site.url}}/170020013-4.pdf)
+[PDF]({{site.url}}/Curriculum_Vitae_PhD.pdf)
 
 ## Contact
 
