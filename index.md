@@ -15,13 +15,21 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-SA Jain, R Shah, S Gupta, D Mehta, **IJ Nair**, J Vora, S Khyalia, S Das, VJ Ribeiro, S Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artifical Intelligence and Statistics<br>
+**Inderjeet Nair**, Natwar Modani. Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining. Submitted at EACL 2023 <br>
 
-N Modani, A Maurya, G Verma, **I Nair**, V Patil, A Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering
+**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar. A Neural CRF-based Hierarchical Approach for Linear Text Segmentation. Submitted at EACL 2023<br>
+
+Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artifical Intelligence and Statistics<br>
+
+Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering
 
 ## Patents
 
-**Inderjeet Nair**, Natwar Modani; Integrated Reading Experience for Contracts and their Amendments; US Patent Application to be filed; Adobe Inc.
+**Inderjeet Nair**, Akshay Singhal, Kumud Lakara, Pritika Ramu, Vikas Balani, Anandhavelu N; Minimally Guided Semantic Extraction; US Patent Application to be filed; Adobe Inc.
+
+**Inderjeet Nair**, Natwar Modani; Exploiting Legal Domain Characteristics for Legal Language Model Pretraining; US Patent Application to be filed; Adobe Inc.
+
+**Inderjeet Nair**, Natwar Modani; Integrated Reading Experience for Contracts and their Amendments; US Patent Application 17/954,558; Adobe Inc.
 
 Ayush Maheshwari, **Inderjeet Nair**, Navita Goyal, Natwar Modani, Ani Nenkova; Assisted Review of Text Content using a Machine Learning Model; US Patent Application 17/549,270; Adobe Inc.
 
