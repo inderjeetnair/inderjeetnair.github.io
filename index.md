@@ -15,9 +15,9 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Submitted at EACL 2023 <br>
+**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Submitted to EACL 2023 <br>
 
-**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://drive.google.com/file/d/1TIXCwJdqj6DAyoOy8EDtwDVR35YMXh_2/view?usp=share_link); Submitted at EACL 2023<br>
+**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://drive.google.com/file/d/1TIXCwJdqj6DAyoOy8EDtwDVR35YMXh_2/view?usp=share_link); Submitted to EACL 2023<br>
 
 Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artifical Intelligence and Statistics<br>
 
