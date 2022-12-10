@@ -4,7 +4,7 @@ author_profile: true
 author: Inderjeet Nair
 toc: true
 ---
-I am a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) working on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artifical Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
+I am a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) working on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artificial Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
 
 
 ## Research
@@ -15,11 +15,11 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Submitted to EACL 2023 <br>
+**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Under ACL Rolling Review (Meta Review Score: 4/5) - to be submitted to EACL 2023<br>
 
 **Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://drive.google.com/file/d/1TIXCwJdqj6DAyoOy8EDtwDVR35YMXh_2/view?usp=share_link); Submitted to EACL 2023<br>
 
-Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artifical Intelligence and Statistics<br>
+Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artificial Intelligence and Statistics<br>
 
 Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering
 
