@@ -15,7 +15,7 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Under ACL Rolling Review (Meta Review Score: 4/5) - to be submitted to EACL 2023<br>
+**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); ACL Rolling Review (Meta Review Score: 4/5) - to be submitted to EACL 2023<br>
 
 **Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://drive.google.com/file/d/1TIXCwJdqj6DAyoOy8EDtwDVR35YMXh_2/view?usp=share_link); Submitted to EACL 2023<br>
 
