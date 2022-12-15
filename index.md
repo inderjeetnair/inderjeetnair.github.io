@@ -21,7 +21,7 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artificial Intelligence and Statistics<br>
 
-Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering
+Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering; **Best Paper Runners-up Award**
 
 ## Patents
 
