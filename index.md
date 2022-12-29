@@ -25,6 +25,8 @@ Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, A
 
 ## Patents
 
+**Inderjeet Nair**, Anirudh Phukan, Aravind Veluri, Lakshya J., Mohar Kundu, Akhash Amarnath, Niyati Chhaya, Sumit Shekhar; Reflowing Infographics for Enhanced Cross-Device Consumption; US Patent Application to be filed; Adobe Inc.
+
 **Inderjeet Nair**, Akshay Singhal, Kumud Lakara, Pritika Ramu, Vikas Balani, Anandhavelu N; Minimally Guided Semantic Extraction; US Patent Application to be filed; Adobe Inc.
 
 **Inderjeet Nair**, Natwar Modani; Exploiting Legal Domain Characteristics for Legal Language Model Pretraining; US Patent Application to be filed; Adobe Inc.
