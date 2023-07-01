@@ -15,9 +15,9 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://drive.google.com/file/d/15KWInc78TOIxpZo3xQl7b5LnwXpO4B2K/view?usp=share_link); Accepted to EACL 2023 Findings<br>
+**Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://aclanthology.org/2023.findings-eacl.190.pdf); Accepted to EACL 2023 Findings<br>
 
-**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://drive.google.com/file/d/1TIXCwJdqj6DAyoOy8EDtwDVR35YMXh_2/view?usp=share_link); Accepted to EACL 2023 Findings<br>
+**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://aclanthology.org/2023.findings-eacl.65.pdf); Accepted to EACL 2023 Findings<br>
 
 Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artificial Intelligence and Statistics<br>
 
@@ -25,11 +25,15 @@ Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, A
 
 ## Manuscripts Under Review
 
-Inderjeet Nair, Shwetha Somasundaram, Pritika Ramu, Vikas Balani, Kumud Lakara, Akshay Singhal, Anandhavelu N.; [Query-Aware Autoregressive Approach for Few-Shot NER](https://drive.google.com/file/d/15ORrsHBHZ_l8TpJREz1Az3uBUTs07Ryo/view?usp=sharing); Under review at ACL 2023<br>
+**Inderjeet Nair**, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view?usp=sharing); Under review at EMNLP 2023<br>
 
-Harshita Chopra, Apoorv Saxena, Inderjeet Nair, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya; [SLIQE: Summarizing Long documents with Inferred Queries and Extractions](https://drive.google.com/file/d/1KB5itWEEcLV4pOOOWCpnc8Jg25sbK9jQ/view?usp=sharing); Under review at ACL 2023<br>
+**Inderjeet Nair**, Shwetha Somasundaram, Pritika Ramu, Vikas Balani, Kumud Lakara, Akshay Singhal, Anandhavelu N.; [Query-Aware Autoregressive Approach for Few-Shot NER](https://drive.google.com/file/d/15ORrsHBHZ_l8TpJREz1Az3uBUTs07Ryo/view?usp=sharing); Under review at EMNLP 2023<br>
+
+Harshita Chopra, Apoorv Saxena, **Inderjeet Nair**, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya; [SLIQE: Summarizing Long documents with Inferred Queries and Extractions](https://drive.google.com/file/d/1KB5itWEEcLV4pOOOWCpnc8Jg25sbK9jQ/view?usp=sharing); Under review at EMNLP 2023<br>
 
 ## Patents
+
+**Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar ; Reader-driven Zoom in – Zoom out: Segmentation to enable non-linear navigation of long form documents; US Patent Application to be filed; Adobe Inc.
 
 **Inderjeet Nair**, Anirudh Phukan, Aravind Veluri, Lakshya J., Mohar Kundu, Akhash Amarnath, Niyati Chhaya, Sumit Shekhar; Reflowing Infographics for Enhanced Cross-Device Consumption; US Patent Application to be filed; Adobe Inc.
 
