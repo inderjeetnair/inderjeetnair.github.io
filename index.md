@@ -15,6 +15,8 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
+Adrian Kochsiek, Apoorv Umang Saxena, **Inderjeet Nair**, Rainer Gemulla; [Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction](https://arxiv.org/pdf/2305.13059.pdf); Accepted to ACL 2023 Workshop RepL4NLP<br>
+
 **Inderjeet Nair**, Natwar Modani; [Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://aclanthology.org/2023.findings-eacl.190.pdf); Accepted to EACL 2023 Findings<br>
 
 **Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://aclanthology.org/2023.findings-eacl.65.pdf); Accepted to EACL 2023 Findings<br>
