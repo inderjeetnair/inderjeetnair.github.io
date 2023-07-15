@@ -26,12 +26,12 @@ Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Ji
 Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering; **Best Paper Runners-up Award**
 
 ## Manuscripts Under Review
-
-**Inderjeet Nair**, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view?usp=sharing); Under review at EMNLP 2023<br>
+[//]: <> (**Inderjeet Nair**, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view?usp=sharing); Under review at EMNLP 2023<br>
 
 **Inderjeet Nair**, Shwetha Somasundaram, Pritika Ramu, Vikas Balani, Kumud Lakara, Akshay Singhal, Anandhavelu N.; [Query-Aware Autoregressive Approach for Few-Shot NER](https://drive.google.com/file/d/15ORrsHBHZ_l8TpJREz1Az3uBUTs07Ryo/view?usp=sharing); Under review at EMNLP 2023<br>
 
-Harshita Chopra, Apoorv Saxena, **Inderjeet Nair**, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya; [SLIQE: Summarizing Long documents with Inferred Queries and Extractions](https://drive.google.com/file/d/1KB5itWEEcLV4pOOOWCpnc8Jg25sbK9jQ/view?usp=sharing); Under review at EMNLP 2023<br>
+Harshita Chopra, Apoorv Saxena, **Inderjeet Nair**, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya; [SLIQE: Summarizing Long documents with Inferred Queries and Extractions](https://drive.google.com/file/d/1KB5itWEEcLV4pOOOWCpnc8Jg25sbK9jQ/view?usp=sharing); Under review at EMNLP 2023<br>)
+
 
 ## Patents
 
