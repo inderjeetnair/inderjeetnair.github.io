@@ -4,7 +4,7 @@ author_profile: true
 author: Inderjeet Nair
 toc: true
 ---
-I am a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) working on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artificial Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
+I am currently a Ph.D. student at the [University of Michigan, Ann Arbor](https://umich.edu/), specializing in Natural Language Processing (NLP) and Argument Mining under the guidance of [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/). Prior to that, I was a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) where I worked on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artificial Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
 
 
 ## Research
@@ -21,16 +21,11 @@ Adrian Kochsiek, Apoorv Umang Saxena, **Inderjeet Nair**, Rainer Gemulla; [Frien
 
 **Inderjeet Nair**, Aparna Garimella, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya, Srikrishna Karanam, Sumit Shekhar; [A Neural CRF-based Hierarchical Approach for Linear Text Segmentation](https://aclanthology.org/2023.findings-eacl.65.pdf); Accepted to EACL 2023 Findings<br>
 
+Aishwarya Agarwal, Anuj Srivastava, **Inderjeet Nair**, Swasti Shreya Mishra, Vineeth Dorna, Sharmila Reddy Nangi, Balaji Vasan Srinivasan; [SketchBuddy: Context-Aware Sketch Enrichment and Enhancement](https://dl.acm.org/doi/abs/10.1145/3587819.3590980); Accepted to 2023 ACM Multimedia Systems<br>
+
 Shubham Anand Jain, Rohan Shah, Sanit Gupta, Denil Mehta, **Inderjeet Nair**, Jian Vora, Sushil Khyalia, Sourav Das, Vinay J Ribeiro, Shivaram Kalyanakrishnan; [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://proceedings.mlr.press/v151/anand-jain22a/anand-jain22a.pdf); Accepted to the 2022 International Conference on Artificial Intelligence and Statistics<br>
 
 Natwar Modani, Anurag Maurya, Gaurav Verma, **Inderjeet Nair**, Vaidehi Patil, Anirudh Kanfade; [Detecting Document Versions and Their Ordering in a Collection](https://gaurav22verma.github.io/assets/WISE2021_DocumentDetection.pdf); Accepted to the 2021 International Conference on Web Information Systems Engineering; **Best Paper Runners-up Award**
-
-## Manuscripts Under Review
-[//]: <> (**Inderjeet Nair**, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view?usp=sharing); Under review at EMNLP 2023<br>
-
-**Inderjeet Nair**, Shwetha Somasundaram, Pritika Ramu, Vikas Balani, Kumud Lakara, Akshay Singhal, Anandhavelu N.; [Query-Aware Autoregressive Approach for Few-Shot NER](https://drive.google.com/file/d/15ORrsHBHZ_l8TpJREz1Az3uBUTs07Ryo/view?usp=sharing); Under review at EMNLP 2023<br>
-
-Harshita Chopra, Apoorv Saxena, **Inderjeet Nair**, Balaji Vasan Srinivasan, Natwar Modani, Niyati Chhaya; [SLIQE: Summarizing Long documents with Inferred Queries and Extractions](https://drive.google.com/file/d/1KB5itWEEcLV4pOOOWCpnc8Jg25sbK9jQ/view?usp=sharing); Under review at EMNLP 2023<br>)
 
 
 ## Patents
