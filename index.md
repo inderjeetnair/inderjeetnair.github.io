@@ -4,16 +4,18 @@ author_profile: true
 author: Inderjeet Nair
 toc: true
 ---
-I am currently a Ph.D. student at the [University of Michigan, Ann Arbor](https://umich.edu/), specializing in Natural Language Processing (NLP) and Argument Mining under the guidance of [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/). Prior to that, I was a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) where I worked on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artificial Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
+I am currently a first-year Ph.D. student at the [University of Michigan, Ann Arbor](https://umich.edu/), working under the guidance of [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/). I am currently focussing on using LLMs for Argument Mining. Prior to that, I was a Research Associate at [Adobe Research Labs, Bangalore](https://research.adobe.com/careers/bangalore/) where I worked on a wide range of Machine Learning projects in Document intelligence, Natural Language Processing, Information Extraction and Legal Artificial Intelligence. I recieved my Bachelor of Technology (BTech.) in Electrical Engineering with Minor in Computer Science and Engineering from [Indian Institute of Technology, Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021. In my spare time, I enjoy gaming, reading non-fiction books, and playing sports like badminton and squash.
 
 
 ## Research
 
-I am broadly interested in Machine Learning, Natural Language Processing (NLP) and related fields. At Adobe, I have primarily worked in document intelligence projects involving NLP techniques like semantic / topical structure analysis and information extraction. During my undergraduate studies, I worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/index.html#teaching) to repurpose a generative modelling framework for the task of one-class classification and anomaly detection. Under the guidance of [Prof. Shivaram Kalyanakrishnan](https://www.cse.iitb.ac.in/~shivaram/), I worked in developing a PAC algorithm for mode estimation of discrete distribution with efficient sample complexity.
+I am broadly interested in Machine Learning, Natural Language Processing (NLP) and related fields. Currently, I am exploring how LLMs can be employed in effectively extracting the argumentative structure of the text, all with the objective of providing invaluable feedback to students regarding their essay compositions. At Adobe, I have primarily worked in document intelligence projects involving NLP techniques like semantic / topical structure analysis and information extraction. During my undergraduate studies, I worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/index.html#teaching) to repurpose a generative modelling framework for the task of one-class classification and anomaly detection. Under the guidance of [Prof. Shivaram Kalyanakrishnan](https://www.cse.iitb.ac.in/~shivaram/), I worked in developing a PAC algorithm for mode estimation of discrete distribution with efficient sample complexity.
 
 
 
 ## Publications
+
+**Inderjeet Nair***, Shwetha S.*, Apoorva Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view); Accepted to EMNLP 2023 Findings<br>
 
 Adrian Kochsiek, Apoorv Umang Saxena, **Inderjeet Nair**, Rainer Gemulla; [Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction](https://arxiv.org/pdf/2305.13059.pdf); Accepted to ACL 2023 Workshop RepL4NLP<br>
 
@@ -47,8 +49,11 @@ Natwar Modani, Vaidehi Patil, **Inderjeet Nair**, Gaurav Verma, Anurag Maurya, A
 
 ## Work Experience
 
+### University of Michigan, Ann Arbor
+Ph.D. Student -  September 2023 - Current
+
 ### Adobe Research Labs, Bangalore
-Research Associate - July 2021 - Present
+Research Associate - July 2021 - August 2023
 
 ### Adobe, Research Labs, Bangalore
 Research Intern — June 2020 - August 2020
@@ -66,5 +71,5 @@ Production Engineer — June 2019 - August 2019
 
 inderjeetnair1 [at] gmail.com
 <br />
-inair [at] adobe.com
+inair [at] umich.com
 
