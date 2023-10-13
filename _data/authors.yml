@@ -2,10 +2,10 @@
 
 Inderjeet Nair:
   name        : "Inderjeet Nair"
-  bio         : "Research Associate, Adobe Research Labs, Bangalore"
+  bio         : "Ph.D. Student, University of Michigan"
   avatar      : "image.png"
   links:
-    - label: "Bangalore, India"
+    - label: "Ann Arbor, USA"
       icon: "fas fa-fw fa-map-marker-alt"
       url: /
     - label: "inderjeetnair1 [at] gmail.com"
@@ -22,7 +22,7 @@ Inderjeet Nair:
       url: "https://www.linkedin.com/in/inderjeet-nair-145b62177/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/InderjeetNair"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
