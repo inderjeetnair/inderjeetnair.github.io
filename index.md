@@ -15,7 +15,7 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 ## Publications
 
-**Inderjeet Nair***, Shwetha S.*, Apoorva Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://drive.google.com/file/d/1TEtVFzf9E2tt0AiRga-431eLZsRPX15q/view); Accepted to EMNLP 2023 Findings<br>
+**Inderjeet Nair***, Shwetha S.*, Apoorva Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://arxiv.org/pdf/2311.13565.pdf); Accepted to EMNLP 2023 Findings<br>
 
 Adrian Kochsiek, Apoorv Umang Saxena, **Inderjeet Nair**, Rainer Gemulla; [Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction](https://arxiv.org/pdf/2305.13059.pdf); Accepted to ACL 2023 Workshop RepL4NLP<br>
 
