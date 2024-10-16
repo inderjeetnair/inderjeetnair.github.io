@@ -14,8 +14,10 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 
 ## Publications
+**Inderjeet Nair**, Jiaye Tan, Xiaotian Su, Anne Gere, Xu Wang, Lu Wang; [Closing the Loop: Learning to Generate Writing Feedback via Language Model Simulated Student Revisions](https://arxiv.org/pdf/2410.08058); Accepted to EMNLP 2024 (Oral)<br>
+
 **Inderjeet Nair**, Lu Wang; [MIDGARD: Self-Consistency Using Minimum Description Length for Structured
-Commonsense Reasoning](https://arxiv.org/abs/2405.05189); Accepted to ACL 2024 (Oral)<br>
+Commonsense Reasoning](https://arxiv.org/abs/2405.05189); Accepted to ACL 2024 (Oral), **Area Chair Award**<br>
 
 **Inderjeet Nair**\*, Shwetha S.\*, Apoorva Saxena, Koustava Goswami; [Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering](https://arxiv.org/pdf/2311.13565.pdf); Accepted to EMNLP 2023 Findings<br>
 
