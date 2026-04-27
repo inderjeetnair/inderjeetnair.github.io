@@ -13,9 +13,10 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 
 ## Preprints
-Manan Gupta, **Inderjeet Nair**, Lu Wang, Dhruv Kumar; [Context Over Content: Exposing Evaluation Faking in Automated Judges](https://arxiv.org/abs/2604.15224); <br>
 
-**Inderjeet Nair**, Jie Ruan, Lu Wang; [Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models](https://arxiv.org/abs/2604.20995); <br>
+**Inderjeet Nair**, Jie Ruan, Lu Wang; [Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models](https://arxiv.org/abs/2604.20995); **Winner of [Best Student Paper Award](https://cse.engin.umich.edu/stories/cse-researchers-receive-best-paper-award-at-msld-2026) at [MSLD 2026](https://nlp.cs.illinois.edu/msld.html)**<br>
+
+Manan Gupta, **Inderjeet Nair**, Lu Wang, Dhruv Kumar; [Context Over Content: Exposing Evaluation Faking in Automated Judges](https://arxiv.org/abs/2604.15224); <br>
 
 ## Publications
 
@@ -79,7 +80,7 @@ Production Engineer — June 2019 - August 2019
 
 ## CV
 
-[PDF]({{site.url}}/CV_phd.pdf)
+[PDF]({{site.url}}/Inderjeet_nair_resume.pdf)
 
 ## Contact
 
