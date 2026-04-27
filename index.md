@@ -13,11 +13,15 @@ I am broadly interested in Machine Learning, Natural Language Processing (NLP) a
 
 
 ## Preprints
-**Inderjeet Nair**, Lu Wang; [Do Language Models Think Consistently? A Study of Value Preferences Across Varying Response Lengths](https://arxiv.org/abs/2506.02481); <br>
+Manan Gupta, **Inderjeet Nair**, Lu Wang, Dhruv Kumar; [Context Over Content: Exposing Evaluation Faking in Automated Judges](https://arxiv.org/abs/2604.15224); <br>
+
+**Inderjeet Nair**, Jie Ruan, Lu Wang; [Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models](https://arxiv.org/abs/2604.20995); <br>
 
 ## Publications
 
 Jie Ruan\*, **Inderjeet Nair**\*, Shuyang Cao\*, Amy Liu, Sheza Munir, Micah Pollens-Dempsey, Tiffany Chiang, Lucy Kates, Nicholas David, Sihan Chen, Ruxin Yang, Yuqian Yang, Jasmine Gump, Tessa Bialek, Vivek Sankaran, Margo Schlanger, Lu Wang; [ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists](https://arxiv.org/abs/2506.01241); Accepted to ICLR 2026<br>
+
+**Inderjeet Nair**, Lu Wang; [Do Language Models Think Consistently? A Study of Value Preferences Across Varying Response Lengths](https://arxiv.org/abs/2506.02481); Accepted to ACL 2026 (Findings)<br>
 
 **Inderjeet Nair**, Jiaye Tan, Xiaotian Su, Anne Gere, Xu Wang, Lu Wang; [Closing the Loop: Learning to Generate Writing Feedback via Language Model Simulated Student Revisions](https://arxiv.org/pdf/2410.08058); Accepted to EMNLP 2024 (Oral)<br>
 
