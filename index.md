@@ -6,7 +6,7 @@ toc: true
 ---
 I am a fourth-year Ph.D. candidate at the [University of Michigan, Ann Arbor](https://umich.edu/), advised by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/). My research focuses on investigating, mitigating, and evaluating scheming and deceptive behaviors in language models. I am also interested in understanding how preexisting dispositions and personas shape the emergence of specific (mis)behaviors and strategically misaligned actions. Previously, I worked across several areas of NLP and AI research, including complex data generation for tool-calling applications, LLMs in education, structured commonsense reasoning, and evaluating the consistency of value preferences in LLMs.
 
-Before my Ph.D., I was a Research Associate at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/), where I worked on machine learning projects spanning document intelligence, natural language processing, information extraction, and legal AI. I received my B.Tech. in Electrical Engineering, with a minor in Computer Science and Engineering, from the [Indian Institute of Technology Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021. In my spare time, I enjoy reading non-fiction and playing badminton and squash.
+Before my Ph.D., I was a Research Associate at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/), where I worked on machine learning projects spanning document intelligence, natural language processing, information extraction, and legal AI. I received my B.Tech. in Electrical Engineering, with a minor in Computer Science and Engineering, from the [Indian Institute of Technology Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021.
 
 
 ## Research Agenda
