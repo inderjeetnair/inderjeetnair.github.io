@@ -9,7 +9,7 @@ I am a fourth-year Ph.D. candidate at the [University of Michigan, Ann Arbor](ht
 Before my Ph.D., I was a Research Associate at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/), where I worked on machine learning projects spanning document intelligence, natural language processing, information extraction, and legal AI. I received my B.Tech. in Electrical Engineering, with a minor in Computer Science and Engineering, from the [Indian Institute of Technology Bombay (IIT Bombay)](https://www.iitb.ac.in/) in 2021. In my spare time, I enjoy reading non-fiction and playing badminton and squash.
 
 
-## Research
+## Research Agenda
 
 My research agenda in AI safety spans three threads:
 
