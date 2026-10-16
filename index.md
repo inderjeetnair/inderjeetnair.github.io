@@ -28,6 +28,8 @@ Manan Gupta, **Inderjeet Nair**, Lu Wang, Dhruv Kumar; [Context Over Content: Ex
 
 ## Publications
 
+Jie Ruan, **Inderjeet Nair**, Amy Liu, Muhammad Khalifa, Yusheng Zhou, Lu Wang; [SchemeArena: Factorized Stress Testing of Scheming in LLM Agents](https://arxiv.org/abs/2609.08126); Accepted to NeurIPS 2026<br>
+
 Jie Ruan\*, **Inderjeet Nair**\*, Shuyang Cao\*, Amy Liu, Sheza Munir, Micah Pollens-Dempsey, Tiffany Chiang, Lucy Kates, Nicholas David, Sihan Chen, Ruxin Yang, Yuqian Yang, Jasmine Gump, Tessa Bialek, Vivek Sankaran, Margo Schlanger, Lu Wang; [ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists](https://arxiv.org/abs/2506.01241); Accepted to ICLR 2026<br>
 
 **Inderjeet Nair**, Lu Wang; [Do Language Models Think Consistently? A Study of Value Preferences Across Varying Response Lengths](https://arxiv.org/abs/2506.02481); Accepted to ACL 2026 (Findings)<br>
